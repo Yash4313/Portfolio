@@ -34,7 +34,7 @@ document.getElementById('contactForm').addEventListener('submit', function(e) {
 
 // Load EmailJS
 (function () {
-  emailjs.init("OdqpdEI8oPITBzksRj1J8"); // Replace with your EmailJS public key
+  emailjs.init("owW4HsL3N_z5w2ADA"); // Replace with your EmailJS public key
 })();
 
 document.getElementById("contactForm").addEventListener("submit", function (e) {
